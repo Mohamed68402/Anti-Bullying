@@ -2533,7 +2533,7 @@ function display1 (){
 
 	}
 	 else{
-		alert("لا يمكن لشخص لا يعرف قيمة الشئ ان يملكه");
+		alert("لقد قشلت في الرد على من تنمر عليك لا تستطيع شراء المدينة");
 		document.getElementById("questioncheck").hidden = false;
 		document.getElementById("landed").hidden = false;
 		document.getElementById("CheckButton").disabled = true;
