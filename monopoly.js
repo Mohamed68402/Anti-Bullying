@@ -2533,7 +2533,7 @@ function display1 (){
 
 	}
 	 else{
-		alert("لقد قشلت في الرد على من تنمر عليك لا تستطيع شراء المدينة");
+		alert("لقد قشلت في الرد على من تنمر عليك ");
 		document.getElementById("questioncheck").hidden = false;
 		document.getElementById("landed").hidden = false;
 		document.getElementById("CheckButton").disabled = true;
